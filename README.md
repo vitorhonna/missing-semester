@@ -6,13 +6,13 @@ https://missing.csail.mit.edu/
 <!-- ❌✔️ -->
 
 1. ✔️ Course overview + the shell
-1. ❌ Shell Tools and Scripting
-1. ❌ Editors (Vim)
-1. ❌ Data Wrangling
-1. ❌ Command-line Environment
-1. ❌ Version Control (Git)
-1. ❌ Debugging and Profiling
-1. ❌ Metaprogramming
-1. ❌ Security and Cryptography
-1. ❌ Potpourri
-1. ❌ Q&A
+2. ❌ Shell Tools and Scripting
+3. ❌ Editors (Vim)
+4. ❌ Data Wrangling
+5. ❌ Command-line Environment
+6. ❌ Version Control (Git)
+7. ❌ Debugging and Profiling
+8. ❌ Metaprogramming
+9. ❌ Security and Cryptography
+10. ❌ Potpourri
+11. ❌ Q&A
