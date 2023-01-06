@@ -6,7 +6,7 @@ https://missing.csail.mit.edu/
 <!-- ❌✔️ -->
 
 1. ✔️ Course overview + the shell
-2. ❌ Shell Tools and Scripting
+2. ✔️ Shell Tools and Scripting
 3. ❌ Editors (Vim)
 4. ❌ Data Wrangling
 5. ❌ Command-line Environment
