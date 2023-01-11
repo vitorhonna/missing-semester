@@ -80,4 +80,6 @@ Using `{}` after a name and passing a list will expand it adding each item of th
 
 1. `ls -a -lh -t --color`
 
-2. 
+2. `marco.sh`
+
+3. `test-script.sh`
